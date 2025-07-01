@@ -12,3 +12,8 @@ Mi ultima linea de mi repositorio
 nueva actividad
 
 Finalizamos con Github
+
+03/07/2025
+Modifico listas 
+Para realizar mi ultima modificación.
+
